@@ -20,9 +20,19 @@ t
 Dapp/src/main/java/com/example/marvelapp/presentation/MainActivity.kt,c/0/c080f254e60f2bd11bfec4863960019ba3f6072b
 o
 ?core/src/main/java/com/sarafaria/core/domain/model/Character.kt,2/6/26871d3bbd9f6200d581f13e1e27273242723b8c
-„
-Tapp/src/main/java/com/example/marvelapp/presentation/characters/CharactersAdapter.kt,2/d/2d1eefea9a4dad336be384f79fe3e74f2a73742d
 ‡
 Wapp/src/main/java/com/example/marvelapp/presentation/characters/CharactersViewHolder.kt,c/b/cbcc383ccf0338db1d4540600efeff9d0d621723
-‘
-aapp/src/main/java/com/example/marvelapp/framework/network/interceptor/AuthorizationInterceptor.kt,d/3/d396859f8ce5e4ff158c060a18bb7c807495be81
+@
+app/build.gradle,f/4/f4a01d6a4fcb971362ec00a83903fd3902f52164
+P
+ app/src/main/AndroidManifest.xml,8/c/8c55c3ccc257e5907959013f99656e4c8ec3903e
+A
+core/build.gradle,9/1/918ca359602392354123b7d3b63264baf7ea9dde
+<
+build.gradle,f/0/f07866736216be0ee2aba49e392191aeae700a35
+}
+Mapp/src/main/java/com/example/marvelapp/framework/CharactersRepositoryImpl.kt,6/5/652541d3c249042f6d784a8b13cd8f8346523fbd
+‹
+[app/src/main/java/com/example/marvelapp/framework/network/response/DataContainerResponse.kt,b/4/b4cca5e2a347fe77f9131bf979b7fb48f66664e4
+r
+Bcore/src/main/java/com/sarafaria/core/usecase/base/ResultStatus.kt,3/3/33af26cbfb6117d4bbba65b252ad805a07bf58cd

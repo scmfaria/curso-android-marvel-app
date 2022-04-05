@@ -1,11 +1,12 @@
 package com.example.marvelapp.presentation.characters
 
 import android.view.ViewGroup
+import androidx.paging.PagingDataAdapter
 import androidx.recyclerview.widget.DiffUtil
 import androidx.recyclerview.widget.ListAdapter
 import com.sarafaria.core.domain.model.Character
 
-class CharactersAdapter : ListAdapter<Character, CharactersViewHolder>(diffCallback) {
+class CharactersAdapter : PagingDataAdapter<Character, CharactersViewHolder>(diffCallback) {
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): CharactersViewHolder {
         return CharactersViewHolder.create(parent)
@@ -14,7 +15,9 @@ class CharactersAdapter : ListAdapter<Character, CharactersViewHolder>(diffCallb
     override fun onBindViewHolder(holder: CharactersViewHolder, position: Int) {
         // para cada item da lista, faz o bind com os dados do viewHolder
         // getItem() é um metodo ja pronto que o ListAdapter tem
-        holder.bind(getItem(position))
+        getItem(position)?.let {
+            holder.bind(it)
+        }
     }
 
     companion object {
