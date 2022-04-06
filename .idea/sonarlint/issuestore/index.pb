@@ -22,8 +22,6 @@ o
 ?core/src/main/java/com/sarafaria/core/domain/model/Character.kt,2/6/26871d3bbd9f6200d581f13e1e27273242723b8c
 ‡
 Wapp/src/main/java/com/example/marvelapp/presentation/characters/CharactersViewHolder.kt,c/b/cbcc383ccf0338db1d4540600efeff9d0d621723
-@
-app/build.gradle,f/4/f4a01d6a4fcb971362ec00a83903fd3902f52164
 P
  app/src/main/AndroidManifest.xml,8/c/8c55c3ccc257e5907959013f99656e4c8ec3903e
 A
@@ -36,3 +34,17 @@ Mapp/src/main/java/com/example/marvelapp/framework/CharactersRepositoryImpl.kt,
 [app/src/main/java/com/example/marvelapp/framework/network/response/DataContainerResponse.kt,b/4/b4cca5e2a347fe77f9131bf979b7fb48f66664e4
 r
 Bcore/src/main/java/com/sarafaria/core/usecase/base/ResultStatus.kt,3/3/33af26cbfb6117d4bbba65b252ad805a07bf58cd
+}
+Mcore/src/main/java/com/sarafaria/core/data/repository/CharactersRepository.kt,e/7/e7e42fb39082575bf29626827fa68e83a30da55b
+~
+Ncore/src/main/java/com/sarafaria/core/usecase/base/AppCoroutinesDispatchers.kt,e/0/e0029a73d11e085ef4bc29c8bb824d86bfd83264
+m
+=core/src/main/java/com/sarafaria/core/usecase/base/UseCase.kt,8/7/8741d01fa49c216923a4c5f90667ee12705b7588
+†
+Vapp/src/main/java/com/example/marvelapp/presentation/characters/CharactersViewModel.kt,9/2/92e12eb889027b101f330ecf452a49b45d4facdf
+x
+Happ/src/main/java/com/example/marvelapp/framework/di/RepositoryModule.kt,8/f/8f206c1aa911ed36a7090436861edfc3605e1564
+‡
+Wapp/src/main/java/com/example/marvelapp/framework/network/response/CharacterResponse.kt,7/7/77f0f1d80d2f174151dafd0c738239e6f518ef8d
+u
+Eapp/src/main/java/com/example/marvelapp/framework/di/NetworkModule.kt,0/c/0ce6a4fc23b835c74d0573b20ba36b373ed586d2
