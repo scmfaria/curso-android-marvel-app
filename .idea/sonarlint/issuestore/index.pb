@@ -17,8 +17,6 @@ t
 Dapp/src/main/java/com/example/marvelapp/presentation/MainActivity.kt,c/0/c080f254e60f2bd11bfec4863960019ba3f6072b
 o
 ?core/src/main/java/com/sarafaria/core/domain/model/Character.kt,2/6/26871d3bbd9f6200d581f13e1e27273242723b8c
-<
-build.gradle,f/0/f07866736216be0ee2aba49e392191aeae700a35
 }
 Mapp/src/main/java/com/example/marvelapp/framework/CharactersRepositoryImpl.kt,6/5/652541d3c249042f6d784a8b13cd8f8346523fbd
 r
@@ -75,3 +73,18 @@ Yapp/src/main/java/com/example/marvelapp/framework/network/response/DataWrapperR
 [app/src/main/java/com/example/marvelapp/framework/network/response/DataContainerResponse.kt,b/4/b4cca5e2a347fe77f9131bf979b7fb48f66664e4
 ‡
 Wapp/src/main/java/com/example/marvelapp/framework/network/response/CharacterResponse.kt,7/7/77f0f1d80d2f174151dafd0c738239e6f518ef8d
+T
+$app/src/debug/res/values/strings.xml,3/e/3e60c0cfd1724c5f941baae3372b5e6f4d3200b9
+V
+&app/src/staging/res/values/strings.xml,b/1/b1ab24439565f5d10ada753de5b6c525fa44921c
+F
+app/proguard-rules.pro,9/e/9e08934d811afe28fbc77aaa3c0d747b94348db9
+P
+ app/src/main/AndroidManifest.xml,8/c/8c55c3ccc257e5907959013f99656e4c8ec3903e
+‡
+Wapp/src/main/java/com/example/marvelapp/framework/network/response/ThumbnailResponse.kt,c/9/c9352a2a6841b92e0152a8b581c6ffc310df66d5
+:
+
+.gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
+n
+>testing/src/main/java/com/example/testing/MainCoroutineRule.kt,a/2/a249a6592841e59edc172f1ef43b9a229a1b3249
