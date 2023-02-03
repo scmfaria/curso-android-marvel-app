@@ -27,8 +27,6 @@ Mcore/src/main/java/com/sarafaria/core/data/repository/CharactersRepository.kt,
 Ncore/src/main/java/com/sarafaria/core/usecase/base/AppCoroutinesDispatchers.kt,e/0/e0029a73d11e085ef4bc29c8bb824d86bfd83264
 x
 Happ/src/main/java/com/example/marvelapp/framework/di/RepositoryModule.kt,8/f/8f206c1aa911ed36a7090436861edfc3605e1564
-u
-Eapp/src/main/java/com/example/marvelapp/framework/di/NetworkModule.kt,0/c/0ce6a4fc23b835c74d0573b20ba36b373ed586d2
 ƒ
 Score/src/main/java/com/sarafaria/core/data/repository/CharactersRemoteDataSource.kt,0/1/015b2436b061d3ccc9d64aa1015ab07a270b894a
 ‘
@@ -79,8 +77,6 @@ V
 &app/src/staging/res/values/strings.xml,b/1/b1ab24439565f5d10ada753de5b6c525fa44921c
 F
 app/proguard-rules.pro,9/e/9e08934d811afe28fbc77aaa3c0d747b94348db9
-P
- app/src/main/AndroidManifest.xml,8/c/8c55c3ccc257e5907959013f99656e4c8ec3903e
 ‡
 Wapp/src/main/java/com/example/marvelapp/framework/network/response/ThumbnailResponse.kt,c/9/c9352a2a6841b92e0152a8b581c6ffc310df66d5
 :
@@ -88,3 +84,23 @@ Wapp/src/main/java/com/example/marvelapp/framework/network/response/ThumbnailRes
 .gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
 n
 >testing/src/main/java/com/example/testing/MainCoroutineRule.kt,a/2/a249a6592841e59edc172f1ef43b9a229a1b3249
+H
+app/google-services.json,f/d/fd8d34b142d02ec743a8efefefd2c097961666e9
+l
+<app/src/debug/java/com/example/marvelapp/HiltTestActivity.kt,e/8/e8f8250d09cae8a6962349b39f44d9375672eb53
+i
+9app/src/androidTest/java/com/example/marvelapp/HiltExt.kt,2/c/2cad699349df55bd13183a3c9bfad12c446c6d26
+P
+ app/src/main/AndroidManifest.xml,8/c/8c55c3ccc257e5907959013f99656e4c8ec3903e
+r
+Bapp/src/androidTest/java/com/example/marvelapp/CustomTestRunner.kt,8/0/80b06e452879c8e6d33b6628f26081424d8699d2
+<
+build.gradle,f/0/f07866736216be0ee2aba49e392191aeae700a35
+…
+Uapp/src/main/java/com/example/marvelapp/presentation/characters/CharactersFragment.kt,2/8/284c6d295e3f5455af547ab7baaed24393e13f11
+z
+Japp/src/main/java/com/example/marvelapp/framework/di/qualifiers/BaseUrl.kt,0/f/0f99d5749bfb798320dcc4dadf3d99c8395aceb7
+Q
+!app/src/debug/AndroidManifest.xml,6/4/64e40361e5f707c52d6c7e7a1c8739d3cdfac01e
+v
+Fapp/src/androidTest/java/com/example/marvelapp/di/BaseUrlTestModule.kt,2/2/2220411571aa2471d3cd1985d4f5a3f3de3a2b7a
