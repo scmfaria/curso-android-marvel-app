@@ -55,8 +55,6 @@ u
 Ecore/src/test/java/com/sarafaria/core/GetCharactersUseCaseImplTest.kt,4/d/4d0c7d3b24ba3ff5fa8f2adddf1f6e6cc20ac6ee
 ‚
 Rapp/src/main/java/com/example/marvelapp/framework/paging/CharactersPagingSource.kt,2/0/20552032512dd7e246855aecc98805b8c555666a
-Š
-Zapp/src/test/java/com/example/marvelapp/presentation/characters/CharactersViewModelTest.kt,9/d/9d1b3f3cd73493071c0598b04cf2522c53f77d55
 D
 testing/build.gradle,8/e/8e21b9b914954a38eca698eca43faf7b3210167b
 s
@@ -86,21 +84,9 @@ n
 >testing/src/main/java/com/example/testing/MainCoroutineRule.kt,a/2/a249a6592841e59edc172f1ef43b9a229a1b3249
 H
 app/google-services.json,f/d/fd8d34b142d02ec743a8efefefd2c097961666e9
-l
-<app/src/debug/java/com/example/marvelapp/HiltTestActivity.kt,e/8/e8f8250d09cae8a6962349b39f44d9375672eb53
-i
-9app/src/androidTest/java/com/example/marvelapp/HiltExt.kt,2/c/2cad699349df55bd13183a3c9bfad12c446c6d26
 P
  app/src/main/AndroidManifest.xml,8/c/8c55c3ccc257e5907959013f99656e4c8ec3903e
-r
-Bapp/src/androidTest/java/com/example/marvelapp/CustomTestRunner.kt,8/0/80b06e452879c8e6d33b6628f26081424d8699d2
 <
 build.gradle,f/0/f07866736216be0ee2aba49e392191aeae700a35
-…
-Uapp/src/main/java/com/example/marvelapp/presentation/characters/CharactersFragment.kt,2/8/284c6d295e3f5455af547ab7baaed24393e13f11
-z
-Japp/src/main/java/com/example/marvelapp/framework/di/qualifiers/BaseUrl.kt,0/f/0f99d5749bfb798320dcc4dadf3d99c8395aceb7
-Q
-!app/src/debug/AndroidManifest.xml,6/4/64e40361e5f707c52d6c7e7a1c8739d3cdfac01e
-v
-Fapp/src/androidTest/java/com/example/marvelapp/di/BaseUrlTestModule.kt,2/2/2220411571aa2471d3cd1985d4f5a3f3de3a2b7a
+Š
+Zapp/src/test/java/com/example/marvelapp/presentation/characters/CharactersViewModelTest.kt,9/d/9d1b3f3cd73493071c0598b04cf2522c53f77d55
